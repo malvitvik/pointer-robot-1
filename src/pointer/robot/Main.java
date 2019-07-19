@@ -14,9 +14,9 @@ public class Main {
 	    showRobot(robot3);
 
 	    CoffeeRobot robot4 = new CoffeeRobot();
-        robot4.work();
-        robot4.showModel();
-        robot4.perform();
+	    robot4.work();
+	    robot4.showModel();
+	    robot4.perform();
     }
 
     static void showRobot(Robot robot) {
